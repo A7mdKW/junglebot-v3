@@ -3,7 +3,7 @@ const client = new Discord.Client();
  const prefix = ">";
 client.on('im hi lol eread lw wow hi ready', function(){    
     var ms = 40000 ;    
-    var setGame = ['>help | >inv By : Jungle TeaM'];    
+    var setGame = ['Zzz .'];    
     var i = -1;    
     var j = 0;    
     setInterval(function (){    
